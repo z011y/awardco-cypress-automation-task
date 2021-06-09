@@ -6,6 +6,8 @@ Clone and run
 
 `npx cypress open`
 
+You can find the tests in `/cypress/integration/sales_contact_form.spec.js`
+
 ### Purpose
 
 These tests check the form validation requirements and general function of the Work Email field within the Sales Contact form.
