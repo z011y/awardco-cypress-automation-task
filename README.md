@@ -1,6 +1,6 @@
 # Awardco Technical Assessment - Cypress Automation Task
 
-#### _You must have npm installed to run this code_
+#### _You must have node and npm installed to run this code_
 
 Clone and run
 
